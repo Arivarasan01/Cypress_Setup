@@ -13,7 +13,7 @@ console.log(typeof(c))
 let required=true
 console.log(typeof(required))
 
-var c=a*b
+ c=a*b
 console.log(c)
 console.log(!required)
 //We cannot redeclare variable with let keyword but possible with var
